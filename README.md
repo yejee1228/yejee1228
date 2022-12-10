@@ -1,7 +1,7 @@
 
 ## How to be FrontEnd developer?
 <div display="flex" align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yejee1228&show_icons=true&theme=radical"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=yejee1228&show_icons=true&theme=radical"/><br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yejee1228&layout=compact&theme=radical"/>
 </div>
 
